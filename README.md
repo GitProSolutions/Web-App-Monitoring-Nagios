@@ -9,6 +9,7 @@ This script automates the process of setting up a basic monitoring solution for 
 Requirements
 
 A server running Ubuntu Linux
+
 sudo privilege on the server
 
 Usage
@@ -21,7 +22,8 @@ Usage
 
 4. Make the script executable using the following command: chmod +x script_name.sh
 
-5.Run the script using the following command: ./script_name.sh
+5. Run the script using the following command: ./script_name.sh
+
 
 What the script does
 
