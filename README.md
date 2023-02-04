@@ -16,13 +16,17 @@ Usage
 
 1. Clone or download the script.
 
-2. Open the script using a text editor and replace [WEB_APP_SERVER_IP] with the IP address of      your web application server.
+2. Open the script using a text editor and replace [WEB_APP_SERVER_IP] with the IP address of your web application server.
 
 3. Save and close the script.
 
 4. Make the script executable using the following command: chmod +x script_name.sh
 
-5. Run the script using the following command: ./script_name.sh
+5. Run the script using the following command:
+
+```shell
+./script_name.sh
+````
 
 
 What the script does
